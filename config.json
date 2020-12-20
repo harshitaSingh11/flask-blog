@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/cleanblog",
+    "prod_uri": "mysql://root:@localhost/cleanblog",
+    "fb_url": "https://facebook.com/cleanblog",
+    "tw_url": "https://twitter.com/cleanblog",
+    "gh_url": "https://github.com/cleanblog",
+    "blog_name": "Clean--Blog",
+    "gmail-user": "yourgmailusername@gmail.com",
+    "gmail-password": "yourgmailpassword",
+    "about-text": "Hi. My name is Harshita and I create awesome websites. My pets are Gizmo and Simmba. Peace.",
+    "no-of-posts": 3,
+    "admin-user": "Gizmo",
+    "admin-password": "Gizmo",
+    "upload-location": "C:\\Users\\91868\\PycharmProjects\\flaskProject\\static"
+  }
+}
